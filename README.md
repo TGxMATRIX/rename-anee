@@ -12,7 +12,7 @@
 ### SAME BOT (official matrix rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/matrixrenamebot"><img title="Telegram" src="https://img.shields.io/static/v1?label=MATRIX+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 
