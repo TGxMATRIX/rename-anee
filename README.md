@@ -3,11 +3,7 @@
 #  MATRIX 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
 
 
-<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
-
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=MATRIX-RENAME-BOT&theme=dark)
-
+<p 
 
 ### SAME BOT (official matrix rename bot)
 
