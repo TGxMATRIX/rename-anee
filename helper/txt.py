@@ -63,10 +63,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-
 """
 
-#⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+
 
