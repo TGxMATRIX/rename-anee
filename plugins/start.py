@@ -47,10 +47,7 @@ async def start(client, message):
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
         ]])
-    await message.reply_chat_action(enums.ChatAction.TYPING)
-    m=await message.reply_sticker("CAACAgUAAxkBAAEHFEVjsBtazFACvx-Z4nKMo8g77X7-QAACJwEAAsiUZBTiPWKAkUSmmi0E")
-       await asyncio.sleep(1)
-       await m.delete()
+    
     if START_PIC:
         await message.reply_photo(START_PIC, caption=txt, reply_markup=button)       
     else:
